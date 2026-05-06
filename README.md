@@ -7,7 +7,7 @@ current_job: Software Engineer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
+    "Master's in Informatics and Computer Engineering of the University of West Attica",
   ]
 company: Mellon Company
 
