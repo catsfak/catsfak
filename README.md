@@ -9,7 +9,7 @@ education:
     "Self-Taught Developer and Designer",
     "Master's in Informatics and Computer Engineering of the University of West Attica",
   ]
-company: Mellon Company
+company: Mellon Technologies
 
 fields_of_interests:
   [
